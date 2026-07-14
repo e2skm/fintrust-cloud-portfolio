@@ -1,4 +1,4 @@
-Programme overview <- Comming Soon
+Fintrust is an online banking application
 
 fintrust-cloud-portfolio/    
 ├── week01/  
