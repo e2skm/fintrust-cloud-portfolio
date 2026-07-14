@@ -1,4 +1,4 @@
-Fintrust is an online banking application
+Fintrust is an online banking application that is currently developed as part of the nedbank cloud learnership programme, it includes AWS Services (Free tier), SQL , Python and artifacts such as notes in .md and .pdf file. 
 
 fintrust-cloud-portfolio/    
 ├── week01/  
