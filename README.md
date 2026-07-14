@@ -1,6 +1,6 @@
 Programme overview <- Comming Soon
 
-fintrust-cloud-portfolio/  
+fintrust-cloud-portfolio/    
 ├── week01/  
 │	├── README.md ← "Week 1 — Foundation" summary  
 │	├── sql/  
