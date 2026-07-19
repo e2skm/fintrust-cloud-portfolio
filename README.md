@@ -17,6 +17,9 @@ fintrust-cloud-portfolio/
 │      │     └── aggregates_report.sql       ← Day 2 PM: GROUP BY, HAVING, monthly summary  
 │      ├── python/  
 │      │     ├── conditionals.py             ← Day 4 PM: classify, interest rate, ATM exercises  
+│      │     ├── day3_exercises.py
+│      │     ├── day3_lesson.py
+│      │     ├── hello_fintrust.py
 │      │     └── transaction_flowchart.py    ← Day 4 PM: full decision engine with 5 test cases  
 │      └── architecture/  
 │              └── week02_compute_notes.md     ← Day 5 AM: Summary of EC2 vs Lambda vs ECS  
