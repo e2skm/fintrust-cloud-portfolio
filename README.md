@@ -19,5 +19,5 @@ fintrust-cloud-portfolio/
 │    │     ├── conditionals.py             ← Day 4 PM: classify, interest rate, ATM exercises  
 │    │     └── transaction_flowchart.py    ← Day 4 PM: full decision engine with 5 test cases  
 │    └── architecture/  
-│         └── week02_compute_notes.md     ← Day 5 AM: Summary of EC2 vs Lambda vs ECS  
+│          └── week02_compute_notes.md     ← Day 5 AM: Summary of EC2 vs Lambda vs ECS  
 │
