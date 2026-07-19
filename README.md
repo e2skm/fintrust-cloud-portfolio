@@ -7,9 +7,9 @@ fintrust-cloud-portfolio/
 │ │	 ├── day3_fintrust_schema.sql ← CREATE TABLE statements  
 │	│	 ├── day4_where_queries.sql ← Lab queries from Day 4 PM  
 │	│	 └── day4_where_challenges.sql ← Challenge queries  
-│	└── notes/  
-│		 ├── day1_reflection.md ← Day 1 reflection  
-│		 └── week1_aws_notes.md ← Any notes from AM sessions    
+│	└── notes/     
+│	    ├── day1_reflection.md ← Day 1 reflection  
+│	    └── week1_aws_notes.md ← Any notes from AM sessions    
 ├── week02/  
 │    ├── README.md        ← brief summary of what you built this week  
 │    ├── sql/  
