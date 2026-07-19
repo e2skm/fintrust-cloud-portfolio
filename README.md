@@ -13,10 +13,10 @@ fintrust-cloud-portfolio/
 ├── week02/  
     ├── README.md        ← brief summary of what you built this week  
     ├── sql/  
-    │    ├── joins_practice.sql          ← Day 1 PM: INNER JOIN and LEFT JOIN exercises  
-    │    └── aggregates_report.sql       ← Day 2 PM: GROUP BY, HAVING, monthly summary  
+    │     ├── joins_practice.sql          ← Day 1 PM: INNER JOIN and LEFT JOIN exercises  
+    │     └── aggregates_report.sql       ← Day 2 PM: GROUP BY, HAVING, monthly summary  
     ├── python/  
-    │    ├── conditionals.py             ← Day 4 PM: classify, interest rate, ATM exercises  
-    │    └── transaction_flowchart.py    ← Day 4 PM: full decision engine with 5 test cases  
+    │     ├── conditionals.py             ← Day 4 PM: classify, interest rate, ATM exercises  
+    │     └── transaction_flowchart.py    ← Day 4 PM: full decision engine with 5 test cases  
     └── architecture/  
          └── week02_compute_notes.md     ← Day 5 AM: Summary of EC2 vs Lambda vs ECS  
