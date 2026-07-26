@@ -1,0 +1,8 @@
+{
+  "region": "eu-west-1",
+  "buckets": {
+    "transactions": "company-transactions-prod",
+    "reports": "company-reports-prod",
+    "archive": "company-archive-prod"
+  }
+}

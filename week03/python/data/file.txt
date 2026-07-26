@@ -1,0 +1,6 @@
+name,gender,race,married,age
+James Brown,Male,Black,False,77
+Helen Zeliar,Female,White,True,56
+Money Cash,Male,Asian,False,18
+Olivia Brown,Female,Black,True,28
+Seth Smith,Non-Binary,White,False,38
