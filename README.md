@@ -34,28 +34,27 @@ fintrust-cloud-portfolio/
 │      │    ├── clean_transactions.py  
 │      │    ├── clean_transactions_v2.py  
 │      │    ├── error_handling_and_logging_practice.py  
-│      │    └── error_handling_and_logging_reference_expanded.py  
-│      │
-│      ├── data/  
-│      │    ├── raw_transactions.csv  
-│      │    ├── clean_transactions.csv  
-│      │    ├── input.csv  
-│      │    ├── output.csv  
-│      │    ├── out.csv  
-│      │    ├── input.json  
-│      │    ├── config.json  
-│      │    ├── daily_summary.json  
-│      │    ├── file.csv  
-│      │    ├── file.txt     
-│      │    └── test.log    
-│      │
-│      ├── logs/  
-│      │    ├── pipeline.log  
-│      │    └── practice.log  
-│      │
+│      │    ├── error_handling_and_logging_reference_expanded.py  
+│      │    ├── data/  
+│      │    |   ├── raw_transactions.csv  
+│      │    |   ├── clean_transactions.csv  
+│      │    |   ├── input.csv  
+│      │    |   ├── output.csv  
+│      │    |   ├── out.csv  
+│      │    |   ├── input.json  
+│      │    |   ├── config.json  
+│      │    |   ├── daily_summary.json  
+│      │    |   ├── file.csv  
+│      │    |   ├── file.txt     
+│      │    |   └── test.log    
+│      │    |
+│      |    ├── logs/  
+│      │    |   ├── pipeline.log  
+│      │    |   └── practice.log  
+│      │    |
 │      ├── architecture/  
 │      │    ├── fintrust_s3_architecture.drawio  
 │      │    └── fintrust_s3_architecture.png  
-│      │
+│      │  
 │      └── notes/
 │           └── reflection.md  
