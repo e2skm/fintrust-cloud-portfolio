@@ -23,43 +23,42 @@ fintrust-cloud-portfolio/
 │      │     └── transaction_flowchart.py    ← Day 4 PM: full decision engine with 5 test cases  
 │      └── architecture/  
 │              └── week02_compute_notes.md     ← Day 5 AM: Summary of EC2 vs Lambda vs ECS  
-├── week03/
-│   ├── README.md
+├── week03/  
+│   ├── README.md  
 │   │      ← Brief summary of Week 3: Python functions, file handling,
 │   │         error handling, logging, and data processing
 │   │
-│   ├── python/
-│   │      ├── day1_function_exercises.py
-│   │      ├── day2_lesson.py
-│   │      ├── day3_input_output_references.py
-│   │      ├── fintrust_utils.py
-│   │      ├── test_utils.py
-│   │      ├── clean_transactions.py
-│   │      ├── clean_transactions_v2.py
-│   │      ├── error_handling_and_logging_practice.py
-│   │      └── error_handling_and_logging_reference_expanded.py
+│   ├── python/  
+│   │      ├── day1_function_exercises.py  
+│   │      ├── day2_lesson.py  
+│   │      ├── day3_input_output_references.py  
+│   │      ├── fintrust_utils.py  
+│   │      ├── test_utils.py  
+│   │      ├── clean_transactions.py  
+│   │      ├── clean_transactions_v2.py  
+│   │      ├── error_handling_and_logging_practice.py  
+│   │      └── error_handling_and_logging_reference_expanded.py  
 │   │
-│   ├── data/
-│   │      ├── raw_transactions.csv
-│   │      ├── clean_transactions.csv
-│   │      ├── input.csv
-│   │      ├── output.csv
-│   │      ├── out.csv
-│   │      ├── input.json
-│   │      ├── config.json
-│   │      ├── daily_summary.json
-│   │      ├── file.csv
-│   │      ├── file.txt
-│   │      ├── temp
-│   │      └── test.log
+│   ├── data/  
+│   │      ├── raw_transactions.csv  
+│   │      ├── clean_transactions.csv  
+│   │      ├── input.csv  
+│   │      ├── output.csv  
+│   │      ├── out.csv  
+│   │      ├── input.json  
+│   │      ├── config.json  
+│   │      ├── daily_summary.json  
+│   │      ├── file.csv  
+│   │      ├── file.txt     
+│   │      └── test.log    
 │   │
-│   ├── logs/
-│   │      ├── pipeline.log
-│   │      └── practice.log
+│   ├── logs/  
+│   │      ├── pipeline.log  
+│   │      └── practice.log  
 │   │
-│   ├── architecture/
-│   │      ├── fintrust_s3_architecture.drawio
-│   │      └── fintrust_s3_architecture.png
+│   ├── architecture/  
+│   │      ├── fintrust_s3_architecture.drawio  
+│   │      └── fintrust_s3_architecture.png  
 │   │
 │   └── notes/
-│          └── reflection.md
+│          └── reflection.md  
