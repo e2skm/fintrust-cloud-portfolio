@@ -1,0 +1,8 @@
+2026-07-23 14:17:59  INFO      === FinTrust Transaction Pipeline starting ===
+2026-07-23 14:17:59  INFO      Input:  C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\raw_transactions.csv
+2026-07-23 14:20:48  INFO      === FinTrust Transaction Pipeline starting ===
+2026-07-23 14:20:48  INFO      Input:  C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\raw_transactions.csv
+2026-07-23 14:20:48  INFO      Processed: 5 rows, skipped: 0
+2026-07-23 14:20:48  INFO      Clean CSV written: C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_4\data\clean_transactions.csv
+2026-07-23 14:20:48  INFO      Summary JSON written: C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_4\data\daily_summary.json
+2026-07-23 14:20:48  INFO      === Pipeline complete ===

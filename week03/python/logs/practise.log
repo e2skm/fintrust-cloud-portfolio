@@ -1,0 +1,23 @@
+2026-07-24 09:03:56  INFO      root  Your random number is 3
+2026-07-24 09:04:06  INFO      root  3 / 0
+2026-07-24 09:04:06  INFO      root  Your name is: Please enter your name
+2026-07-24 09:07:10  INFO      root  Your random number is 9
+2026-07-24 09:07:18  INFO      root  You can not divide by Zero
+2026-07-24 09:07:40  INFO      root  Your name is: Itumeleng
+2026-07-24 09:08:24  INFO      root  Your random number is 7
+2026-07-24 09:08:29  ERROR     root  You can divide a string enter a number
+2026-07-24 09:08:38  INFO      root  Your name is: 
+2026-07-24 10:31:15  INFO      root  Your random number is 1
+2026-07-24 10:31:15  INFO      root  Your random number is 1
+2026-07-24 10:31:20  INFO      root  1 / -1 = 
+2026-07-24 10:31:57  INFO      root  Your random number is 3
+2026-07-24 10:32:03  INFO      root  3 / -1 = -3.0
+2026-07-24 10:32:14  INFO      root  Your name is: Itumeleng
+2026-07-24 10:32:25  INFO      root  Your random number is 1
+2026-07-24 10:32:43  INFO      root  Your name is: C:\Users\nb446086\AppData\Local\Programs\Python\Python314\python.exe c:/Users/nb446086/Downloads/fintrust-cloud-portfolio/week_03/day_4/error_handling_and_logging_practise.py
+2026-07-24 10:32:53  INFO      root  Your random number is 36
+2026-07-24 10:33:01  ERROR     root  You can divide by a string enter a number
+2026-07-24 10:33:08  INFO      root  Your name is: Nolwazi
+2026-07-24 10:33:12  INFO      root  Your random number is 13
+2026-07-24 10:33:21  ERROR     root  You can divide by a string enter a number
+2026-07-24 10:33:33  INFO      root  Your name is: Sandeep
