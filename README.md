@@ -60,4 +60,29 @@ fintrust-cloud-portfolio/
 │   │   └── fintrust_s3_architecture.png
 │   └── notes/
 │       └── reflection.md
+├──week04/
+|  ├── README.md ← Week 4: Building a modular FinTrust data processing pipeline with database integration, reporting, debugging, and custom exception handling
+|  ├── python/
+|  │   ├── main.py ← Application entry point
+|  │   ├── analyse.py ← Transaction analysis and reporting
+|  │   ├── pipeline.py ← End-to-end data processing workflow
+|  │   ├── transactions.py ← Transaction-related functionality
+|  │   ├── creating_custom_exception_classes.py ← Custom exception handling exercises
+|  │   ├──SHA_256.py
+|  │   ├── debugg_me.py ← Debugging practice and troubleshooting
+|  │   └── fintrust_pipeline/
+|  │       ├── __init__.py
+|  │       ├── loader.py ← Load transaction data
+|  │       ├── database.py ← SQLite database operations
+|  │       └── reporter.py ← Report generation utilities
+|  ├── data/
+|  │   ├── transactions.csv ← Source transaction dataset
+|  │   ├── transactions_enriched.csv ← Processed and enriched transaction dataset
+|  │   ├── daily_report.txt ← Generated transaction report
+|  │   └── fintrust_analytics.db ← SQLite database
+|  ├── architecture/
+|  │   └── db-architecture-diagram.md ← Database design and architecture documentation
+|  ├── notes/
+|  │   └── reflection.md ← Week 4 reflection and learnings
+|  └── requirements.txt ← Python project dependencies
 ```
