@@ -10,7 +10,7 @@
 import csv
 
 # write file.txt
-with open(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\file.txt","w",newline="",encoding="utf-8") as f:
+with open(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\file.txt","w",newline="",encoding="utf-8") as f:
     fieldnames = ["name","gender","race","married", "age"]
     writer = csv.DictWriter(f,fieldnames=fieldnames)
     writer.writeheader()
@@ -23,11 +23,11 @@ with open(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_3\d
 
 print("Reading file.txt ...")
 # Correct — file is closed even if an exception is raised inside the block
-with open(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\file.txt", "r", encoding="utf-8") as f:
+with open(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\file.txt", "r", encoding="utf-8") as f:
     data = f.read()
 
 # Wrong — if an exception is raised before f.close(), the file stays open
-f = open(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\file.txt", "r", encoding="utf-8")
+f = open(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\file.txt", "r", encoding="utf-8")
 data = f.read()
 f.close()
 
@@ -171,7 +171,7 @@ with (
 # Read CSV → Convert to JSON
 print("Reading input.csv and converting to input.json ...")
 from pathlib import Path
-with open(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\input.csv", "r", newline="", encoding="utf-8") as f:
+with open(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\input.csv", "r", newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     records = list(reader)   # materialise to list of dicts
 
@@ -182,7 +182,7 @@ Path("input.json").write_text(
 
 # Read JSON Config → Use in Script
 print("Reading config.json ....")
-config = json.loads(Path(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\config.json").read_text(encoding="utf-8"))
+config = json.loads(Path(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\config.json").read_text(encoding="utf-8"))
 bucket = config["buckets"]["transactions"]
 region = config["region"]
 print(bucket)  
