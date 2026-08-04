@@ -8,9 +8,9 @@ import json
 from pathlib import Path
 from datetime import datetime
 
-RAW_INPUT  = Path(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\raw_transactions.csv")
-CLEAN_CSV  = Path(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\clean_transactions.csv")
-SUMMARY_JSON = Path(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\daily_summary.json")
+RAW_INPUT  = Path(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\raw_transactions.csv")
+CLEAN_CSV  = Path(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\clean_transactions.csv")
+SUMMARY_JSON = Path(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\daily_summary.json")
 
 
 def normalise_date(date_str):
