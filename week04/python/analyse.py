@@ -2,7 +2,7 @@ import sqlite3
 import pandas as pd
 from pathlib import Path
 
-DB_FILE = Path(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_04\day_3\fintrust_analytics.db")
+DB_FILE = Path(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_04\day_3\fintrust_analytics.db")
 
 # ── Load the transactions table into a DataFrame ─────────────────────────────
 conn = sqlite3.connect(DB_FILE)
@@ -52,5 +52,5 @@ print("\n=== DataFrame with New Columns ===")
 print(df[["transaction_id", "amount", "high_value", "txn_date"]].to_string())
 
 # Export to CSV
-df.to_csv(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_04\day_4\transactions_enriched.csv", index=False)
+df.to_csv(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_04\day_4\transactions_enriched.csv", index=False)
 print("\nExported to transactions_enriched.csv")
