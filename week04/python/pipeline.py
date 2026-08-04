@@ -5,9 +5,9 @@ from pathlib import Path
 
 
 # ── Configuration ────────────────────────────────────────────────────────────
-CSV_FILE   = Path(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_04\day_3\transactions.csv")
-DB_FILE    = Path(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_04\day_3\fintrust_analytics.db")
-REPORT_FILE = Path(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_04\day_3\daily_report.txt")
+CSV_FILE   = Path(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_04\day_3\transactions.csv")
+DB_FILE    = Path(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_04\day_3\fintrust_analytics.db")
+REPORT_FILE = Path(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_04\day_3\daily_report.txt")
 
 VALID_TYPES   = {"TRANSFER", "DEPOSIT", "WITHDRAWAL"}
 VALID_STATUSES = {"COMPLETED", "FAILED", "PENDING"}
