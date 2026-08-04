@@ -70,7 +70,7 @@ logging.basicConfig(
     format="%(asctime)s  %(levelname)-8s  %(name)s  %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
     handlers=[
-        logging.FileHandler(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_4\logs\practise.log"),   # Write to file
+        logging.FileHandler(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_03\day_4\logs\practise.log"),   # Write to file
         logging.StreamHandler()                 # Also print to console
     ]
 )
