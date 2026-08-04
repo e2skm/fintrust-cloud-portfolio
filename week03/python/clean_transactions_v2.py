@@ -10,8 +10,8 @@ from datetime import datetime
 from pathlib import Path
 
 # ── Logging setup ──────────────────────────────────────────────────
-LOG_DIR  = Path(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_4\logs")
-DATA_DIR = Path(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_4\data")
+LOG_DIR  = Path(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_03\day_4\logs")
+DATA_DIR = Path(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_03\day_4\data")
 LOG_DIR.mkdir(exist_ok=True)
 DATA_DIR.mkdir(exist_ok=True)
 
@@ -27,7 +27,7 @@ logging.basicConfig(
 logger = logging.getLogger("fintrust.pipeline")
 
 # ── Config ─────────────────────────────────────────────────────────
-RAW_INPUT    = Path(r"C:\Users\nb446086\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\raw_transactions.csv")
+RAW_INPUT    = Path(r"C:\Users\***********\Downloads\fintrust-cloud-portfolio\week_03\day_3\data\raw_transactions.csv")
 CLEAN_CSV    = DATA_DIR / "clean_transactions.csv"
 SUMMARY_JSON = DATA_DIR / "daily_summary.json"
 
