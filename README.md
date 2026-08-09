@@ -6,30 +6,33 @@ Fintrust is an online banking application that is currently being developed as p
 
 ```text
 fintrust-cloud-portfolio/
+│
 ├── week01/
-│   ├── README.md ← Week 1 — Foundation summary
+│   ├── README.md
 │   ├── sql/
-│   │   ├── day3_fintrust_schema.sql ← CREATE TABLE statements
-│   │   ├── day4_where_queries.sql ← Lab queries from Day 4 PM
-│   │   └── day4_where_challenges.sql ← Challenge queries
+│   │   ├── day3_fintrust_schema.sql
+│   │   ├── day4_where_queries.sql
+│   │   └── day4_where_challenges.sql
 │   └── notes/
-│       ├── day1_reflection.md ← Day 1 reflection
-│       └── week1_aws_notes.md ← Any notes from AM sessions
+│       ├── day1_reflection.md
+│       └── week1_aws_notes.md
+│
 ├── week02/
-│   ├── README.md ← Brief summary of what you built this week
+│   ├── README.md
 │   ├── sql/
-│   │   ├── joins_practice.sql ← Day 1 PM: INNER JOIN and LEFT JOIN exercises
-│   │   └── aggregates_report.sql ← Day 2 PM: GROUP BY, HAVING, monthly summary
+│   │   ├── joins_practice.sql
+│   │   └── aggregates_report.sql
 │   ├── python/
-│   │   ├── conditionals.py ← Day 4 PM: classify, interest rate, ATM exercises
+│   │   ├── conditionals.py
 │   │   ├── day3_exercises.py
 │   │   ├── day3_lesson.py
 │   │   ├── hello_fintrust.py
-│   │   └── transaction_flowchart.py ← Day 4 PM: full decision engine with 5 test cases
+│   │   └── transaction_flowchart.py
 │   └── architecture/
-│       └── week02_compute_notes.md ← Day 5 AM: Summary of EC2 vs Lambda vs ECS
+│       └── week02_compute_notes.md
+│
 ├── week03/
-│   ├── README.md ← Brief summary of Week 3: Python functions, file handling, error handling, logging, and data processing
+│   ├── README.md
 │   ├── python/
 │   │   ├── day1_function_exercises.py
 │   │   ├── day2_lesson.py
@@ -60,29 +63,50 @@ fintrust-cloud-portfolio/
 │   │   └── fintrust_s3_architecture.png
 │   └── notes/
 │       └── reflection.md
-├──week04/
-|  ├── README.md ← Week 4: Building a modular FinTrust data processing pipeline with database integration, reporting, debugging, and custom exception handling
-|  ├── python/
-|  │   ├── main.py ← Application entry point
-|  │   ├── analyse.py ← Transaction analysis and reporting
-|  │   ├── pipeline.py ← End-to-end data processing workflow
-|  │   ├── transactions.py ← Transaction-related functionality
-|  │   ├── creating_custom_exception_classes.py ← Custom exception handling exercises
-|  │   ├──SHA_256.py
-|  │   ├── debugg_me.py ← Debugging practice and troubleshooting
-|  │   └── fintrust_pipeline/
-|  │       ├── __init__.py
-|  │       ├── loader.py ← Load transaction data
-|  │       ├── database.py ← SQLite database operations
-|  │       └── reporter.py ← Report generation utilities
-|  ├── data/
-|  │   ├── transactions.csv ← Source transaction dataset
-|  │   ├── transactions_enriched.csv ← Processed and enriched transaction dataset
-|  │   ├── daily_report.txt ← Generated transaction report
-|  │   └── fintrust_analytics.db ← SQLite database
-|  ├── architecture/
-|  │   └── db-architecture-diagram.md ← Database design and architecture documentation
-|  ├── notes/
-|  │   └── reflection.md ← Week 4 reflection and learnings
-|  └── requirements.txt ← Python project dependencies
+│
+├── week04/
+│   ├── README.md
+│   ├── python/
+│   │   ├── main.py
+│   │   ├── analyse.py
+│   │   ├── pipeline.py
+│   │   ├── transactions.py
+│   │   ├── creating_custom_exception_classes.py
+│   │   ├── SHA_256.py
+│   │   ├── debugg_me.py
+│   │   └── fintrust_pipeline/
+│   │       ├── __init__.py
+│   │       ├── loader.py
+│   │       ├── database.py
+│   │       └── reporter.py
+│   ├── data/
+│   │   ├── transactions.csv
+│   │   ├── transactions_enriched.csv
+│   │   ├── daily_report.txt
+│   │   └── fintrust_analytics.db
+│   ├── architecture/
+│   │   └── db-architecture-diagram.md
+│   ├── notes/
+│   │   └── reflection.md
+│   └── requirements.txt
+│
+└── week05/
+│   ├── README.md
+│   │
+│   ├── architecture/
+│   │   ├── Target Architecture.drawio
+│   │   ├── Target Architecture.svg
+│   │   ├── cloudfront-architecture.drawio
+│   │   ├── cloudfront-architecture.svg
+│   │   ├── day_2_architecture.drawio
+│   │   ├── day_2_architecture.svg
+│   │   ├── route53.drawio
+│   │   └── route53.svg
+│   │
+│   └── notes/
+│       ├── day1_vpc_build.md
+│       ├── day2_connectivity.md
+│       ├── day3_route53.md
+│       ├── day4_cloudfront.md
+│       └── mock_exam_review.md
 ```
