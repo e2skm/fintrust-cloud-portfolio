@@ -1,6 +1,6 @@
 # Fintrust Cloud Portfolio
 
-Fintrust is an online banking application that is currently being developed as part of the Nedbank Cloud Learnership Programme. The project incorporates AWS Services (Free Tier), SQL `.sql`, Python `.py`, supporting artifacts such as notes in `.md` and `.pdf` and images in `.png` and `.svg` as well as  requirements `.txt`, log files `.log`, input/output `.csv` and `.json` formats.
+Fintrust is an online banking application that is currently being developed as part of the Nedbank Cloud Learnership Programme. The project incorporates AWS Services (Free Tier), SQL `.sql`, Python `.py`, supporting artifacts such as notes in `.md` and `.pdf`, images in `.png` and `.svg` as well as  requirements `.txt`, log files `.log` and input/output files `.csv` and `.json` formats.
 
 <br>
 
