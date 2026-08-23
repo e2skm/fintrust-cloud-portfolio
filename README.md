@@ -90,7 +90,7 @@ fintrust-cloud-portfolio/
 │   │   └── reflection.md
 │   └── requirements.txt
 │
-└── week05/
+├── week05/
 │   ├── README.md
 │   │
 │   ├── architecture/
@@ -109,23 +109,38 @@ fintrust-cloud-portfolio/
 │       ├── day3_route53.md
 │       ├── day4_cloudfront.md
 │       └── mock_exam_review.md
-week06/
-├── architecture/
-│   └── incident_response_flow_diagram.svg
 │
-├── notes/
-│   ├── Comprehensive Lesson_ SQL Window Functions.pdf
-│   ├── FinTrust_security_services_configuration_summary.pdf
-│   ├── IAM_design_decision.pdf
-│   ├── week_6_FinTrust_security_architecture_summary.pdf
-│   └── window_functions_master_class.md
+├── week06/
+│   ├── README.md
+│   │
+|   ├── architecture/
+│   |   └── incident_response_flow_diagram.svg
+│   |
+|   ├── notes/
+│   |   ├── Comprehensive Lesson_ SQL Window Functions.pdf
+│   |   ├── FinTrust_security_services_configuration_summary.pdf
+│   |   ├── IAM_design_decision.pdf
+│   |   ├── week_6_FinTrust_security_architecture_summary.pdf
+│   |   └── window_functions_master_class.md
+│   |
+|   ├── python/
+│   |   ├── day_3.py
+│   |   ├── day_4.py
+│   |   └── day_5_part_B.py
+│   |
+|   └── sql/
+|       ├── day_2.sql
+|       └── day_5_part_A.sql
 │
-├── python/
-│   ├── day_3.py
-│   ├── day_4.py
-│   └── day_5_part_B.py
-│
-└── sql/
-    ├── day_2.sql
-    └── day_5_part_A.sql
+├── week_07/
+│   ├── README.md
+│   │
+|   ├── architecture/
+│   |   └── HA_architecture.svg
+│   |
+|   ├── python/
+│   |   └── day_1.py
+│   | 
+|   └── sql/
+|       └── day_1.sql
 ```
