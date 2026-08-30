@@ -11,16 +11,15 @@ The architecture illustrates how data can be ingested, stored, processed, and ac
 ## Project Structure
 
 ```text
-week_08/
-│
-├── architecture/
-│   └── THE_AWS_DATA_LAKE_ARCHITECTURE.png
-│
-├── application/
-│   ├── data_engineering_pandas_parquet_s3.py
-│   ├── fintrust_realtime_pipeline.py
-│   └── fintrust_support_ticket_processor.py
-└── README.md
+├── week_08/
+|   ├── README.md
+|   ├── architecture/
+|   |   └── THE_AWS_DATA_LAKE_ARCHITECTURE.png
+|   │
+|   ├── python/
+|   │   ├── data_engineering_pandas_parquet_s3.py
+|   │   ├── fintrust_realtime_pipeline.py
+|   │   └── fintrust_support_ticket_processor.py
 ```
 
 ---
