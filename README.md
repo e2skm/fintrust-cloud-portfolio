@@ -1,3 +1,4 @@
+
 # Fintrust Cloud Portfolio
 
 Fintrust is an online banking application that is currently being developed as part of the Nedbank Cloud Learnership Programme. The project incorporates AWS Services (Free Tier), SQL `.sql`, Python `.py`, supporting artifacts such as notes in `.md` and `.pdf`, images in `.png` and `.svg` as well as  requirements `.txt`, log files `.log` and input/output files `.csv` and `.json` formats.
@@ -16,7 +17,6 @@ fintrust-cloud-portfolio/
 │   └── notes/
 │       ├── day1_reflection.md
 │       └── week1_aws_notes.md
-│
 ├── week02/
 │   ├── README.md
 │   ├── sql/
@@ -30,7 +30,6 @@ fintrust-cloud-portfolio/
 │   │   └── transaction_flowchart.py
 │   └── architecture/
 │       └── week02_compute_notes.md
-│
 ├── week03/
 │   ├── README.md
 │   ├── python/
@@ -89,10 +88,8 @@ fintrust-cloud-portfolio/
 │   ├── notes/
 │   │   └── reflection.md
 │   └── requirements.txt
-│
 ├── week05/
 │   ├── README.md
-│   │
 │   ├── architecture/
 │   │   ├── Target Architecture.drawio
 │   │   ├── Target Architecture.svg
@@ -102,7 +99,6 @@ fintrust-cloud-portfolio/
 │   │   ├── day_2_architecture.svg
 │   │   ├── route53.drawio
 │   │   └── route53.svg
-│   │
 │   └── notes/
 │       ├── day1_vpc_build.md
 │       ├── day2_connectivity.md
@@ -112,35 +108,36 @@ fintrust-cloud-portfolio/
 │
 ├── week06/
 │   ├── README.md
-│   │
 |   ├── architecture/
 │   |   └── incident_response_flow_diagram.svg
-│   |
 |   ├── notes/
 │   |   ├── Comprehensive Lesson_ SQL Window Functions.pdf
 │   |   ├── FinTrust_security_services_configuration_summary.pdf
 │   |   ├── IAM_design_decision.pdf
 │   |   ├── week_6_FinTrust_security_architecture_summary.pdf
 │   |   └── window_functions_master_class.md
-│   |
 |   ├── python/
 │   |   ├── day_3.py
 │   |   ├── day_4.py
 │   |   └── day_5_part_B.py
-│   |
 |   └── sql/
 |       ├── day_2.sql
 |       └── day_5_part_A.sql
-│
 ├── week_07/
 │   ├── README.md
-│   │
 |   ├── architecture/
 │   |   └── HA_architecture.svg
-│   |
 |   ├── python/
 │   |   └── day_1.py
-│   | 
 |   └── sql/
 |       └── day_1.sql
+week_08/
+|   ├── README.md
+|   ├── architecture/
+|   |   └── THE_AWS_DATA_LAKE_ARCHITECTURE.png
+|   │
+|   ├── python/
+|   │   ├── data_engineering_pandas_parquet_s3.py
+|   │   ├── fintrust_realtime_pipeline.py
+|   │   └── fintrust_support_ticket_processor.py
 ```
