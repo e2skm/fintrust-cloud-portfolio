@@ -131,7 +131,7 @@ fintrust-cloud-portfolio/
 │   |   └── day_1.py
 |   └── sql/
 |       └── day_1.sql
-week_08/
+├── week_08/
 |   ├── README.md
 |   ├── architecture/
 |   |   └── THE_AWS_DATA_LAKE_ARCHITECTURE.png
