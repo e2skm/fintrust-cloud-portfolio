@@ -17,19 +17,9 @@ week_08/
 │   └── THE_AWS_DATA_LAKE_ARCHITECTURE.png
 │
 ├── application/
-│   ├── app.py
-│   ├── requirements.txt
-│   └── Dockerfile
-│
-├── deployment/
-│   ├── kubernetes/
-│   │   ├── deployment.yaml
-│   │   └── service.yaml
-│   │
-│   └── terraform/
-│       ├── main.tf
-│       ├── variables.tf
-│       └── outputs.tf
+│   ├── data_engineering_pandas_parquet_s3.py
+│   ├── fintrust_realtime_pipeline.py
+│   └── fintrust_support_ticket_processor.py
 └── README.md
 ```
 
@@ -54,21 +44,11 @@ architecture/THE_AWS_DATA_LAKE_ARCHITECTURE.png
 
 ---
 
-## Application Verification
-
-The deployed containerized application was successfully accessed through the browser and displayed the following message:
-
-> You did it! This is your second containerized App!!
-
-This confirms successful deployment and accessibility of the application.
-
----
-
 ## Technologies Used
 
 - AWS Cloud
 - Amazon S3
-- Docker
+- boto3
 - Kubernetes
 - GitHub
 - Infrastructure as Code (Terraform)
