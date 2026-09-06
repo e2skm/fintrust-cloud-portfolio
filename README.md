@@ -136,8 +136,15 @@ fintrust-cloud-portfolio/
 |   ├── architecture/
 |   |   └── THE_AWS_DATA_LAKE_ARCHITECTURE.png
 |   │
-|   ├── python/
-|   │   ├── data_engineering_pandas_parquet_s3.py
-|   │   ├── fintrust_realtime_pipeline.py
-|   │   └── fintrust_support_ticket_processor.py
+|   └── python/
+|       ├── data_engineering_pandas_parquet_s3.py
+|       ├── fintrust_realtime_pipeline.py
+|       └── fintrust_support_ticket_processor.py
+week_09/
+|  ├── README.md
+|  └── python/
+|      ├── fintrust_governance_report.py
+|      ├── fintrust_monthly_report.py
+|      ├── fintrust_tco_break_even.py
+|      └── fis_experiment_status_checker.py
 ```
