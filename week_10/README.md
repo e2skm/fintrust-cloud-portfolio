@@ -17,7 +17,6 @@ week_10/
 |   |      └── sync_helpers.py
 │   ├── classifier.py
 │   └── dms_helpers.py
-│
 └── sql/
     ├── datasync_views.sql
     ├── dms_views.sql
