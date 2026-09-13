@@ -140,11 +140,30 @@ fintrust-cloud-portfolio/
 |       ├── data_engineering_pandas_parquet_s3.py
 |       ├── fintrust_realtime_pipeline.py
 |       └── fintrust_support_ticket_processor.py
-week_09/
+├── week_09/
 |  ├── README.md
 |  └── python/
 |      ├── fintrust_governance_report.py
 |      ├── fintrust_monthly_report.py
 |      ├── fintrust_tco_break_even.py
 |      └── fis_experiment_status_checker.py
+├── week_10/
+|  ├── python/
+|  │   ├── fintrust_migration/
+|  |   |   ├── __init__.py 
+|  |   |   ├── utils/
+|  |   |   |   ├── __init__.py
+|  |   |   |   └── sessions.py
+|  |   |   └── s3/ 
+|  |   |      ├── __init__.py
+|  |   |      └── sync_helpers.py
+|  │   ├── classifier.py
+|  │   └── dms_helpers.py
+|  │
+|  └── sql/
+|      ├── datasync_views.sql
+|      ├── dms_views.sql
+|      ├── sql_views.sql
+|      └── v_wave_progress.sql
+├── 
 ```
