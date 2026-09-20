@@ -7,7 +7,6 @@ Fintrust is an online banking application that is currently being developed as p
 
 ```text
 fintrust-cloud-portfolio/
-│
 ├── week01/
 │   ├── README.md
 │   ├── sql/
@@ -62,7 +61,6 @@ fintrust-cloud-portfolio/
 │   │   └── fintrust_s3_architecture.png
 │   └── notes/
 │       └── reflection.md
-│
 ├── week04/
 │   ├── README.md
 │   ├── python/
@@ -164,5 +162,12 @@ fintrust-cloud-portfolio/
 |      ├── dms_views.sql
 |      ├── sql_views.sql
 |      └── v_wave_progress.sql
-├── 
+├── week_11/
+|    ├── README.md
+|    ├── python/
+|    │   ├── python_concurrency_practice.py
+|    │   └── python_decorators_practice.py
+|    └── sql/
+|        ├── cte_recursive_queries.sql
+|        └── window_functions_practice.sql
 ```
