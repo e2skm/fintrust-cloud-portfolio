@@ -10,7 +10,6 @@ fintrust-cloud-portfolio/
     ├── python/
     │   ├── python_concurrency_practice.py
     │   └── python_decorators_practice.py
-    │
     └── sql/
         ├── cte_recursive_queries.sql
         └── window_functions_practice.sql
