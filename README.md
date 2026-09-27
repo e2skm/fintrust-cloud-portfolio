@@ -170,4 +170,13 @@ fintrust-cloud-portfolio/
 |    └── sql/
 |        ├── cte_recursive_queries.sql
 |        └── window_functions_practice.sql
+├── week_12/
+|  ├── python/
+|  │   ├── __init__.py
+|  │   ├── cost_reporting.py
+|  │   ├── generate_report.py
+|  │   └── lambda_function.py
+|  │
+|  └── sql/
+|      └── fintrust_views.sql
 ```
